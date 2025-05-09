@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @evapeck
+- 👀 I’m interested in video games, reading, nature, pets, and music.
+- 🌱 I’m currently learning Python! I will be learning Java and C# in the spring.
+- 📫 How to reach me: evalpeck@gmail.com
+- 😄 Pronouns: she/her
